@@ -10,7 +10,6 @@
 
 ---
 
-- 🔭 I’m currently working on **HirelyAI**
 - 🌱 I’m currently learning **React, Express**
 - 🎓 I’m an Undergraduate at **Java Institute**
 - 📫 How to reach me **dhemjitha@gmail.com**
