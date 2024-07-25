@@ -38,7 +38,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">TechStack:</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/>
