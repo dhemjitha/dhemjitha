@@ -19,7 +19,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/d_hemjitha" target="blank">
+  <a href="https://twitter.com/dhemjitha" target="blank">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="d_hemjitha" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/dulran-hemjitha" target="blank">
