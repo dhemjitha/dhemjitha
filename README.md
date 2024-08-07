@@ -1,7 +1,7 @@
 <p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=7AF79A&size=30&lines=Hey!+I'm+Dulran+Hemjitha+!;Welcome+to+My+Profile.;)](https://git.io/typing-svg)
-<h3> Here's some fun facts about me: </h3>
+
 <h3 align="center">Passionate about TECH</h3>
 
 <p align="center">
