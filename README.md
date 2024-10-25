@@ -35,17 +35,17 @@
   <!-- Front-End -->
   <strong>Front-End:</strong><br>
   <img  src="https://skillicons.dev/icons?i=react,ts,tailwind,js,bootstrap&perline=6" />
-  <br><br><br>
+  <br><br>
 
   <!-- Back-End -->
   <strong>Back-End:</strong><br>
   <img  src="https://skillicons.dev/icons?i=express,ts,nodejs,php,java,py&perline=6" />
-  <br><br>
+  <br>
 
   <!-- Databases -->
   <strong>Databases:</strong><br>
   <img  src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" />
-  <br><br>
+  <br>
 
   <!-- Tools & Platforms -->
   <strong>Tools & Platforms:</strong><br>
