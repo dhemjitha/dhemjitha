@@ -1,109 +1,97 @@
-<p align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture></p>
+<!--Banner-->
+![dhemjitha Banner Image](https://media.licdn.com/dms/image/v2/D5616AQFy1oGlFTs2vQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720171362334?e=1735171200&v=beta&t=bj4SwTDhHIZ6pWWHoHhO5cPzt2x6kmrSK4fPFAn3VG8)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=7AF79A&size=30&lines=Hey!+I'm+Dulran+Hemjitha+!;Welcome+to+My+Profile.;)](https://git.io/typing-svg)
 
-<h3 align="center">Passionate about TECH</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhemjitha&label=Profile%20views&color=0e75b6&style=flat" alt="dhemjitha" />
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Dulran. 
+*Aspiring Full Stack Developer*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I am a passionate Software Engineer focused on technology and innovation. Currently working with React.js, Express.js, Node.js, TypeScript, and LLMs, I create industry-level applications. Balancing my studies at Birmingham City University with practical experience, I’m committed to quality, embracing challenges, and continuous growth.</p>
+
+- ✨ A student of life, always eager to learn and grow.
+- 🌱 Currently expanding my knowledge in software development and beyond.
+- 🏙 Studying Software Engineering at Birmingham City University, UK.
+- 💻 Working on exciting projects
+- ❤ Passionate about tech, innovation, and building impactful solutions.
+- 💻 Visit my [Portfolio](https://dulrandev.netlify.app/) for more details about me.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dhemjitha&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="dhemjitha" style="padding-right:20px;" />
 </p>
 
 ---
+<br />
 
-I am a dedicated and passionate Software Engineer with a strong focus on technology and innovation. Currently, I'm learning in React.js, Express.js, Node.js, TypeScript, and LLMs, and I create industry-level applications. As an undergraduate at the Birmingham City University, I balance my academic pursuits with practical experience, always striving to learn and apply new technologies. My approach to work is characterized by a commitment to quality, a willingness to tackle challenges, and a passion for continuous learning and growth.
-
----
-
-<h3 align="center">Connect with me:</h3>
+<!--Languages and Tools Section-->       
+<h2 align="center">Tech Stack and Tools</h2> 
 <p align="center">
-  <a href="https://twitter.com/dhemjitha" target="blank">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="d_hemjitha" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/dulran-hemjitha" target="blank">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="dulran-hemjitha" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/dulran hemjitha" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulran hemjitha" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/dhemjitha" target="blank">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="dhemjitha" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/dhemjitha" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dhemjitha" height="30" width="40" />
-  </a>
-</p>
+   
+<div align="center">
+  <!-- Front-End -->
+  <strong>Front-End:</strong><br>
+  <img  src="https://skillicons.dev/icons?i=react,ts,tailwind,js,bootstrap&perline=6" />
+  <br><br><br>
 
----
+  <!-- Back-End -->
+  <strong>Back-End:</strong><br>
+  <img  src="https://skillicons.dev/icons?i=express,ts,nodejs,php,java,py&perline=6" />
+  <br><br>
 
-<h3 align="center">TechStack:</h3>
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/>
-  </a>
+  <!-- Databases -->
+  <strong>Databases:</strong><br>
+  <img  src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" />
+  <br><br>
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  
-
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/> 
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> 
-  </a>
+  <!-- Tools & Platforms -->
+  <strong>Tools & Platforms:</strong><br>
+  <img src="https://skillicons.dev/icons?i=vite,netlify,arduino,git,postman&perline=6" />
+</div>
   
 </p>
+<br />
+
+
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Github Stats</h2>
+
+<div align="center">
+  <a href="https://github.com/dhemjitha">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhemjitha&theme=buefy&show_icons=true" />
+    <br/>
+  </a>
+</div>
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Connect with Me </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/dulran-hemjitha/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:dhemjitha@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/_.dulran._" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://twitter.com/dhemjitha" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<!--Support Section-->
+
+<h2 align="center">Support Me ❤️</h2>
+<div align="center"><a href="https://www.buymeacoffee.com/dulrandev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px" ></a></div>
+</p>
+
