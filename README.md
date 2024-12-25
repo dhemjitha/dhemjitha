@@ -42,6 +42,10 @@
   <img  src="https://skillicons.dev/icons?i=express,ts,nodejs,php,java,py&perline=6" />
   <br>
 
+  <strong>Fullstack:</strong><br>
+  <img  src="https://skillicons.dev/icons?i=next&perline=6" />
+  <br>
+
   <!-- Databases -->
   <strong>Databases:</strong><br>
   <img  src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" />
@@ -49,7 +53,7 @@
 
   <!-- Tools & Platforms -->
   <strong>Tools & Platforms:</strong><br>
-  <img src="https://skillicons.dev/icons?i=vite,netlify,arduino,git,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vite,netlify,vercel,arduino,git,postman&perline=6" />
 </div>
   
 </p>
