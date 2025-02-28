@@ -9,7 +9,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a passionate Software Engineer focused on technology and innovation. Currently working with React.js, Express.js, Node.js, TypeScript, and LLMs, I create industry-level applications. Balancing my studies at Birmingham City University with practical experience, I’m committed to quality, embracing challenges, and continuous growth.</p>
+<p align="left">I am a passionate Software Engineer focused on technology and innovation. Currently working with latest technologies like ReactJS, NextJS, ExpressJS, NodeJS, TypeScript, and LLMs, I create industry-level applications. Balancing my studies at Birmingham City University with practical experience, I’m committed to quality, embracing challenges, and continuous growth.</p>
 
 - ✨ A student of life, always eager to learn and grow.
 - 🌱 Currently expanding my knowledge in software development and beyond.
@@ -34,12 +34,12 @@
 <div align="center">
   <!-- Front-End -->
   <strong>Front-End:</strong><br>
-  <img  src="https://skillicons.dev/icons?i=react,ts,tailwind,js,bootstrap&perline=6" />
+  <img  src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,js,bootstrap&perline=6" />
   <br><br>
 
   <!-- Back-End -->
   <strong>Back-End:</strong><br>
-  <img  src="https://skillicons.dev/icons?i=express,ts,nodejs,php,java,py&perline=6" />
+  <img  src="https://skillicons.dev/icons?i=express,prisma,ts,nodejs,php,java,py&perline=7" />
   <br>
 
   <strong>Fullstack:</strong><br>
@@ -48,7 +48,7 @@
 
   <!-- Databases -->
   <strong>Databases:</strong><br>
-  <img  src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" />
+  <img  src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&perline=6" />
   <br>
 
   <!-- Tools & Platforms -->
