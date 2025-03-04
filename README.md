@@ -16,7 +16,7 @@
 - 🏙 Studying Software Engineering at Birmingham City University, UK.
 - 💻 Working on exciting projects
 - ❤ Passionate about tech, innovation, and building impactful solutions.
-- 💻 [Dulran.dev](https://dulrandev.vercel.app/) for more details about me.
+- 💻 [Dulran.dev](https://dulran.dev/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
