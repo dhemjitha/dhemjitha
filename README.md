@@ -3,19 +3,26 @@
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Dulran. 
+# Hello! I'm Dulran. 
 *Aspiring Full Stack Developer*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a passionate Software Engineer focused on technology and innovation. Currently working with latest technologies like ReactJS, NextJS, ExpressJS, NodeJS, TypeScript, and LLMs, I create industry-level applications. Balancing my studies at Birmingham City University with practical experience, I’m committed to quality, embracing challenges, and continuous growth.</p>
+<p align="left">I am a passionate Software Engineer focused on technology and innovation. Currently working with latest technologies like ReactJS, NextJS, ExpressJS, NodeJS, TypeScript, and LLMs, I create industry-level applications. Balancing my studies at Birmingham City University with practical experience, I’m committed to quality, embracing challenges, and continuous growth.</p><br/>
 
-- ✨ A student of life, always eager to learn and grow.
-- 🌱 Currently expanding my knowledge in software development and beyond.
+- 🤖 AI-driven Full Stack Developer focused on building modern, intelligent web applications.
+
+- 🚀 Creating scalable, high-performance apps using the latest technologies.
+
+- 🌱 Continuously expanding my knowledge in software development and beyond.
+
 - 🏙 Studying Software Engineering at Birmingham City University, UK.
-- 💻 Working on exciting projects.
-- ❤ Passionate about tech, innovation, and building impactful solutions.
-- 💻 [Dulran.dev](https://dulran.dev/) for more details about me.
+
+- 💻 Actively working on industry-level projects and real-world solutions.
+
+- ❤ Passionate about tech, innovation, and building impactful digital experiences.
+
+- 🔎 Dulran.dev — Learn more about my work and journey.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -27,7 +34,7 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">🛠️ Tech Stack and Tools</h2> 
+<h2 align="center">🛠️ Tech Stack</h2> 
 <p align="center">
    
 <div align="center">
@@ -35,6 +42,7 @@
   <strong>Front-End:</strong><br>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
@@ -46,7 +54,7 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
@@ -89,9 +97,11 @@
 <div align="center">
   <a href="https://github.com/dhemjitha">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhemjitha&theme=buefy&show_icons=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhemjitha&theme=white&hide_border=false" />
     <br/>
   </a>
 </div>
+
 
 
 <!--Contact Section--> 
@@ -99,7 +109,7 @@
 <h2 align="center">🤝 Connect with Me </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/dulran-hemjitha/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
 </a>
   
 <a href="mailto:dhemjitha@gmail.com" target="_blank">
@@ -110,8 +120,8 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/dhemjitha" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: 5px;" />
+<a href="https://x.com/dulrandev" target="_blank">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 </div>
 
