@@ -8,7 +8,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a passionate Software Engineer focused on technology and innovation. Currently working with latest technologies like ReactJS, NextJS, ExpressJS, NodeJS, TypeScript, and LLMs, I create industry-level applications. Balancing my studies at Birmingham City University with practical experience, I’m committed to quality, embracing challenges, and continuous growth.</p><br/>
+<p align="left">I am a passionate Software Engineer focused on technology and innovation. Currently working with latest technologies like ReactJS, NextJS, ExpressJS, NodeJS, TypeScript, and LLMs, I create industry-level applications. Balancing my studies at Birmingham City University with practical experience, I’m committed to quality, embracing challenges, and continuous growth.</p>
 
 - 🤖 AI-driven Full Stack Developer focused on building modern, intelligent web applications.
 
