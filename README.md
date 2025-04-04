@@ -11,17 +11,11 @@
 <p align="left">I am a passionate Software Engineer focused on technology and innovation. Currently working with latest technologies like ReactJS, NextJS, ExpressJS, NodeJS, TypeScript, and LLMs, I create industry-level applications. Balancing my studies at Birmingham City University with practical experience, I’m committed to quality, embracing challenges, and continuous growth.</p>
 
 - 🤖 AI-driven Full Stack Developer focused on building modern, intelligent web applications.
-
 - 🚀 Creating scalable, high-performance apps using the latest technologies.
-
 - 🌱 Continuously expanding my knowledge in software development and beyond.
-
 - 🏙 Studying Software Engineering at Birmingham City University, UK.
-
 - 💻 Actively working on industry-level projects and real-world solutions.
-
 - ❤ Passionate about tech, innovation, and building impactful digital experiences.
-
 - 🔎 [Dulran.dev](https://dulran.dev/) — Learn more about my work and journey.
 <!--End Intro-->
 
