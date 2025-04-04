@@ -22,7 +22,7 @@
 
 - ❤ Passionate about tech, innovation, and building impactful digital experiences.
 
-- 🔎 Dulran.dev — Learn more about my work and journey.
+- 🔎 [Dulran.dev](https://dulran.dev/) — Learn more about my work and journey.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
