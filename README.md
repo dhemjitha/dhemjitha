@@ -91,11 +91,9 @@
 <div align="center">
   <a href="https://github.com/dhemjitha">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhemjitha&theme=buefy&show_icons=true" />
-<!--     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhemjitha&theme=white&hide_border=false" /> -->
-    <br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhemjitha&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=350" />
   </a>
 </div>
-
 
 
 <!--Contact Section--> 
