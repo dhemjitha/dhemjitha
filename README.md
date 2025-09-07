@@ -60,6 +60,9 @@
 
   <strong>AI / Machine Learning:</strong><br>
   <img src="https://img.shields.io/badge/Langchain-3E3E3E?style=for-the-badge&logo=langchain&logoColor=white" />
+  ![n8n](https://img.shields.io/badge/n8n-Workflow-orange?style=for-the-badge&logo=n8n&logoColor=white)
+  ![Make](https://img.shields.io/badge/Make.com-Automation-ff4f9a?style=for-the-badge&logo=make&logoColor=white)
+
   <br><br>
 
   <!-- Databases -->
