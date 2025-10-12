@@ -4,11 +4,11 @@
 
 <!--Header Name-->
 # Hello! I'm Dulran. 
-*Aspiring Full Stack Developer*
+*Full Stack Engineer*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a passionate Software Engineer focused on technology and innovation. Currently working with latest technologies like ReactJS, NextJS, ExpressJS, NodeJS, TypeScript, and LLMs, I create industry-level applications. Balancing my studies at Birmingham City University with practical experience, I’m committed to quality, embracing challenges, and continuous growth.</p>
+<p align="left">I am a passionate Software Engineer focused on technology and innovation. Currently working with latest technologies like ReactJS, NextJS, ExpressJS, NodeJS, TypeScript, AI Automation and LLMs, I create industry-level applications. Balancing my studies at Birmingham City University with practical experience, I’m committed to quality, embracing challenges, and continuous growth.</p>
 
 - 🤖 AI-driven Full Stack Developer focused on building modern, intelligent web applications.
 - 🚀 Creating scalable, high-performance apps using the latest technologies.
@@ -94,7 +94,7 @@
 <div align="center">
   <a href="https://github.com/dhemjitha">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhemjitha&theme=buefy&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhemjitha&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=350" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhemjitha&layout=compact&card_width=350" />
   </a>
 </div>
 
